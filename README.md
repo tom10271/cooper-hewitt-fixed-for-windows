@@ -1,3 +1,6 @@
+![fixed demo](https://user-images.githubusercontent.com/5089629/35182178-96570232-fe0a-11e7-9822-e7cbe377b997.gif)
+
+
 # LICSENCE
 I am not the creator(Of course). So please respect the original license of Cooper Hewitt which is SIL Open Font License.
 https://github.com/cooperhewitt/cooperhewitt-typeface
